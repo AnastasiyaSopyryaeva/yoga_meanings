@@ -1,0 +1,291 @@
+source,target,weight
+aerial,ashtanga,1
+aerial,baptiste,1
+aerial,barre,1
+aerial,breathwork / pranayama,2
+aerial,dharma,1
+aerial,flow,2
+aerial,hatha,1
+aerial,hot yoga / bikram,2
+aerial,iyengar,2
+aerial,jivamukti,1
+aerial,karma,1
+aerial,kundalini,1
+aerial,meditation,2
+aerial,other,2
+aerial,pilates,1
+aerial,pre(post)natal,2
+aerial,qigong,1
+aerial,tai chi,1
+aerial,training,2
+aerial,vinyasa,2
+aerial,yin,2
+aerial,yoga,2
+aerial,yoga for kids / family,2
+ashtanga,baptiste,1
+ashtanga,barre,1
+ashtanga,breathwork / pranayama,2
+ashtanga,dharma,1
+ashtanga,flow,2
+ashtanga,hatha,1
+ashtanga,hot yoga / bikram,1
+ashtanga,iyengar,1
+ashtanga,karma,1
+ashtanga,kundalini,2
+ashtanga,meditation,2
+ashtanga,nidra,1
+ashtanga,other,2
+ashtanga,pilates,1
+ashtanga,pre(post)natal,1
+ashtanga,qigong,1
+ashtanga,restore,1
+ashtanga,tai chi,1
+ashtanga,training,1
+ashtanga,vinyasa,2
+ashtanga,yin,2
+ashtanga,yoga,2
+ashtanga,yoga for kids / family,1
+baptiste,barre,1
+baptiste,breathwork / pranayama,1
+baptiste,dharma,1
+baptiste,flow,1
+baptiste,hot yoga / bikram,1
+baptiste,iyengar,1
+baptiste,kundalini,1
+baptiste,meditation,1
+baptiste,other,1
+baptiste,pilates,1
+baptiste,pre(post)natal,1
+baptiste,qigong,1
+baptiste,tai chi,1
+baptiste,training,1
+baptiste,vinyasa,1
+baptiste,yin,1
+baptiste,yoga,1
+baptiste,yoga for kids / family,1
+barre,breathwork / pranayama,1
+barre,dharma,1
+barre,flow,1
+barre,hot yoga / bikram,1
+barre,iyengar,1
+barre,kundalini,1
+barre,meditation,1
+barre,other,1
+barre,pilates,1
+barre,pre(post)natal,1
+barre,qigong,1
+barre,tai chi,1
+barre,training,1
+barre,vinyasa,1
+barre,yin,1
+barre,yoga,1
+barre,yoga for kids / family,1
+breathwork / pranayama,dharma,2
+breathwork / pranayama,flow,4
+breathwork / pranayama,hatha,3
+breathwork / pranayama,hot yoga / bikram,3
+breathwork / pranayama,iyengar,3
+breathwork / pranayama,jivamukti,2
+breathwork / pranayama,karma,3
+breathwork / pranayama,kundalini,2
+breathwork / pranayama,meditation,4
+breathwork / pranayama,nidra,1
+breathwork / pranayama,other,4
+breathwork / pranayama,pilates,1
+breathwork / pranayama,pre(post)natal,3
+breathwork / pranayama,qigong,1
+breathwork / pranayama,restore,1
+breathwork / pranayama,tai chi,1
+breathwork / pranayama,training,3
+breathwork / pranayama,vinyasa,4
+breathwork / pranayama,yin,4
+breathwork / pranayama,yoga,4
+breathwork / pranayama,yoga for kids / family,3
+dharma,flow,2
+dharma,hatha,1
+dharma,hot yoga / bikram,2
+dharma,iyengar,2
+dharma,jivamukti,1
+dharma,karma,1
+dharma,kundalini,1
+dharma,meditation,2
+dharma,other,2
+dharma,pilates,1
+dharma,pre(post)natal,2
+dharma,qigong,1
+dharma,tai chi,1
+dharma,training,2
+dharma,vinyasa,2
+dharma,yin,2
+dharma,yoga,2
+dharma,yoga for kids / family,2
+flow,hatha,4
+flow,hot yoga / bikram,4
+flow,iyengar,4
+flow,jivamukti,2
+flow,karma,4
+flow,kundalini,2
+flow,meditation,5
+flow,nidra,2
+flow,other,4
+flow,pilates,1
+flow,pre(post)natal,4
+flow,qigong,1
+flow,restore,2
+flow,tai chi,1
+flow,training,3
+flow,vinyasa,5
+flow,yin,5
+flow,yoga,5
+flow,yoga for kids / family,4
+hatha,hot yoga / bikram,3
+hatha,iyengar,3
+hatha,jivamukti,2
+hatha,karma,4
+hatha,kundalini,1
+hatha,meditation,4
+hatha,nidra,2
+hatha,other,3
+hatha,pre(post)natal,3
+hatha,restore,2
+hatha,training,2
+hatha,vinyasa,4
+hatha,yin,4
+hatha,yoga,4
+hatha,yoga for kids / family,3
+hot yoga / bikram,iyengar,4
+hot yoga / bikram,jivamukti,2
+hot yoga / bikram,karma,3
+hot yoga / bikram,kundalini,1
+hot yoga / bikram,meditation,4
+hot yoga / bikram,nidra,1
+hot yoga / bikram,other,3
+hot yoga / bikram,pilates,1
+hot yoga / bikram,pre(post)natal,4
+hot yoga / bikram,qigong,1
+hot yoga / bikram,restore,1
+hot yoga / bikram,tai chi,1
+hot yoga / bikram,training,3
+hot yoga / bikram,vinyasa,4
+hot yoga / bikram,yin,4
+hot yoga / bikram,yoga,4
+hot yoga / bikram,yoga for kids / family,4
+iyengar,jivamukti,2
+iyengar,karma,3
+iyengar,kundalini,1
+iyengar,meditation,4
+iyengar,nidra,1
+iyengar,other,3
+iyengar,pilates,1
+iyengar,pre(post)natal,4
+iyengar,qigong,1
+iyengar,restore,1
+iyengar,tai chi,1
+iyengar,training,3
+iyengar,vinyasa,4
+iyengar,yin,4
+iyengar,yoga,4
+iyengar,yoga for kids / family,4
+jivamukti,karma,2
+jivamukti,meditation,2
+jivamukti,other,2
+jivamukti,pre(post)natal,2
+jivamukti,training,2
+jivamukti,vinyasa,2
+jivamukti,yin,2
+jivamukti,yoga,2
+jivamukti,yoga for kids / family,2
+karma,kundalini,1
+karma,meditation,4
+karma,nidra,2
+karma,other,3
+karma,pre(post)natal,3
+karma,restore,2
+karma,training,2
+karma,vinyasa,4
+karma,yin,4
+karma,yoga,4
+karma,yoga for kids / family,3
+kundalini,meditation,2
+kundalini,nidra,1
+kundalini,other,2
+kundalini,pilates,1
+kundalini,pre(post)natal,1
+kundalini,qigong,1
+kundalini,restore,1
+kundalini,tai chi,1
+kundalini,training,1
+kundalini,vinyasa,2
+kundalini,yin,2
+kundalini,yoga,2
+kundalini,yoga for kids / family,1
+meditation,nidra,2
+meditation,other,4
+meditation,pilates,1
+meditation,pre(post)natal,4
+meditation,qigong,1
+meditation,restore,2
+meditation,tai chi,1
+meditation,training,3
+meditation,vinyasa,5
+meditation,yin,5
+meditation,yoga,5
+meditation,yoga for kids / family,4
+nidra,other,1
+nidra,pre(post)natal,1
+nidra,restore,2
+nidra,vinyasa,2
+nidra,yin,2
+nidra,yoga,2
+nidra,yoga for kids / family,1
+other,pilates,1
+other,pre(post)natal,3
+other,qigong,1
+other,restore,1
+other,tai chi,1
+other,training,3
+other,vinyasa,4
+other,yin,4
+other,yoga,4
+other,yoga for kids / family,3
+pilates,pre(post)natal,1
+pilates,qigong,1
+pilates,tai chi,1
+pilates,training,1
+pilates,vinyasa,1
+pilates,yin,1
+pilates,yoga,1
+pilates,yoga for kids / family,1
+pre(post)natal,qigong,1
+pre(post)natal,restore,1
+pre(post)natal,tai chi,1
+pre(post)natal,training,3
+pre(post)natal,vinyasa,4
+pre(post)natal,yin,4
+pre(post)natal,yoga,4
+pre(post)natal,yoga for kids / family,4
+qigong,tai chi,1
+qigong,training,1
+qigong,vinyasa,1
+qigong,yin,1
+qigong,yoga,1
+qigong,yoga for kids / family,1
+restore,vinyasa,2
+restore,yin,2
+restore,yoga,2
+restore,yoga for kids / family,1
+tai chi,training,1
+tai chi,vinyasa,1
+tai chi,yin,1
+tai chi,yoga,1
+tai chi,yoga for kids / family,1
+training,vinyasa,3
+training,yin,3
+training,yoga,3
+training,yoga for kids / family,3
+vinyasa,yin,5
+vinyasa,yoga,5
+vinyasa,yoga for kids / family,4
+yin,yoga,5
+yin,yoga for kids / family,4
+yoga,yoga for kids / family,4
