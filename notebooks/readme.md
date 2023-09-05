@@ -1,0 +1,2 @@
+- scripts folder: This folder primarily contains notebooks with Python functions developed for various analytical tasks.
+- analysis folder: This folder contains the outputs of the functions applied to our data.
